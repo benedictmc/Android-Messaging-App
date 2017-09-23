@@ -32,8 +32,8 @@ Android Studio: https://developer.android.com/studio/index.html
 ## Acknowledgments
 
 Thanks to AndroidHive and code.tutsplus for reference tutorials.
-https://www.androidhive.info/2016/06/android-getting-started-firebase-simple-login-registration-auth/
-https://code.tutsplus.com/tutorials/how-to-create-an-android-chat-app-using-firebase--cms-27397
+* https://www.androidhive.info/2016/06/android-getting-started-firebase-simple-login-registration-auth/
+* https://code.tutsplus.com/tutorials/how-to-create-an-android-chat-app-using-firebase--cms-27397
 
 ## Authors
 
