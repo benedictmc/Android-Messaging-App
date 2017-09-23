@@ -1,10 +1,4 @@
-# Android-Messaging-App
-Client to server messanging android application using Firebase
-
-
-![](images/assignment_table.png)
-
-# Project Title
+# Android Messaging app using Firebase
 This is my messaging application I made for android. It implements google firebase to handle user authentication, using Google sign in as messaging profile. I have plans in the future to add Facebook login and email and password as authentication methods. 
 Messages are saved on persisting firebase database, messages will be updated on each client’s view as messages are sent. A recyclerview was used as opposed to a listview to display messages to improve overall performance.
 Future features for this app include:
