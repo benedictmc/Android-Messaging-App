@@ -9,10 +9,10 @@ Future features for this app include:
 
 ### Prerequisites
 
-Android SDK min 17
-Android Support Repository
-Google Play Services
-Firebase Core
+* Android SDK min 17
+* Android Support Repository
+* Google Play Services
+* Firebase Core
 
 
 ### Installing
