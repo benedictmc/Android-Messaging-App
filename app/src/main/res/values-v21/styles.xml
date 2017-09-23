@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="v21" parent="FirebaseUI">
+        <item name="android:statusBarColor">?android:attr/colorForeground</item>
+    </style>
+</resources>

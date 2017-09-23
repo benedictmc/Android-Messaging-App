@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "576520077564",
+    "firebase_url": "https://messagingappandr.firebaseio.com",
+    "project_id": "messagingappandr",
+    "storage_bucket": "messagingappandr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576520077564:android:96c8807869cc84ca",
+        "android_client_info": {
+          "package_name": "com.mcgovern.bened.messaging_app_and"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576520077564-1k5hv60mgpj21li24ngngm5558tubn5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mcgovern.bened.messaging_app_and",
+            "certificate_hash": "9d0d6b86a1dfe019f207dda7cdb4f7920fedf0fe"
+          }
+        },
+        {
+          "client_id": "576520077564-8groi9duq52o59aq95fcvv4gasjcqd70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0zbBN_YELC3CLYN-xyhhGVqJRmH2eWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576520077564-8groi9duq52o59aq95fcvv4gasjcqd70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
